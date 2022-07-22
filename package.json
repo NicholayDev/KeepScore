@@ -1,0 +1,23 @@
+{
+  "name": "keeping-score",
+  "version": "1.0.0",
+  "description": "A small console application for keeping score of games, the application keeps score and logs all games to a file.",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "eslint ."
+  },
+  "keywords": [
+    "console",
+    "app",
+    "score",
+    "keep"
+  ],
+  "author": "NicholayKotsupiy",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.20.0",
+    "install": "^0.13.0",
+    "npm": "^8.15.0"
+  }
+}
